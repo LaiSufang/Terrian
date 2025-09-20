@@ -17,5 +17,16 @@ public class MoveObject: MonoBehaviour
         //Objective 2: Move Object
         transform.Translate(Vector3.forward * Time.deltaTime * moveSpeed);
     }
+    public void OnMouseDown()
+    {
+        if (moveSpeed == 5.0f)
+        {
+            moveSpeed = 0f;
+        }
+        else
+        {
+            moveSpeed = 5.0f;
+        }
+    }
 
 }

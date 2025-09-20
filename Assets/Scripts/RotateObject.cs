@@ -17,4 +17,16 @@ public class RotateObject : MonoBehaviour
         //Objective 1: Rotate Object (Check)
         transform.Rotate(Vector3.up, turnSpeed * Time.deltaTime);
     }
+
+    public void OnMouseDown()
+    {
+        if (turnSpeed == 25f)
+        {
+            turnSpeed = 0f;
+        }
+        else
+        {
+            turnSpeed = 25f;
+        }
+    }
 }
