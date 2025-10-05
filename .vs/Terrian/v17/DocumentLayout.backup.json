@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sufan\\Terrian\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|c:\\users\\sufan\\terrian\\assets\\triggeredsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\triggeredsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|c:\\users\\sufan\\terrian\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|c:\\users\\sufan\\terrian\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,44 +91,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TriggeredSound.cs",
+              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
+              "RelativeDocumentMoniker": "Assets\\TriggeredSound.cs",
+              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
+              "RelativeToolTip": "Assets\\TriggeredSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:56:57.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Shoot.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Shoot.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Shoot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Shoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T20:54:31.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T20:21:03.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T20:21:03.448Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PickUpObject.cs",
-              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PickUpObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUpObject.cs",
-              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PickUpObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PickUpObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T14:15:54.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WheelRotate.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\WheelRotate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WheelRotate.cs",
@@ -136,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ChangeSize.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeSize.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeSize.cs",
@@ -148,19 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChangeColor.cs",
-              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeColor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeColor.cs",
-              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeColor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChangeColor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:22:01.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MoveObject.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\MoveObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveObject.cs",
@@ -173,6 +165,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PickUpObject.cs",
+              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PickUpObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUpObject.cs",
+              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PickUpObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUpObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:15:54.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeColor.cs",
+              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeColor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeColor.cs",
+              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeColor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChangeColor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T16:22:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "RotateObject.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\RotateObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RotateObject.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerMovements.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PlayerMovements.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovements.cs",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -207,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UniversalRenderPipeline.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Runtime\\UniversalRenderPipeline.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Runtime\\UniversalRenderPipeline.cs",
@@ -215,11 +231,12 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Runtime\\UniversalRenderPipeline.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQDAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T01:11:14.167Z"
+              "WhenOpened": "2025-09-07T01:11:14.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TerrainLit.shader",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Shaders\\Terrain\\TerrainLit.shader",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Shaders\\Terrain\\TerrainLit.shader",
@@ -227,11 +244,12 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Shaders\\Terrain\\TerrainLit.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-09-06T23:22:22.303Z"
+              "WhenOpened": "2025-09-06T23:22:22.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Readme FIRST!.txt",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\MedievalTownExteriors\\Readme FIRST!.txt",
               "RelativeDocumentMoniker": "Assets\\MedievalTownExteriors\\Readme FIRST!.txt",
@@ -243,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Readme.txt",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\MedievalTownExteriors\\Readme.txt",
               "RelativeDocumentMoniker": "Assets\\MedievalTownExteriors\\Readme.txt",
