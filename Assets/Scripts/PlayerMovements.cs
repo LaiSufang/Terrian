@@ -11,23 +11,30 @@ public class PlayerMovement : MonoBehaviour
     private float jumpHeight = 1.0f;
     private float gravityValue = -9.81f;
     private float rotationSpeed = 2f;
+
+    // anmations
+    private Animator animator;
+    private float moveSpeedMultiplier = 1f;
+
     private void Start()
     {
         controller = gameObject.GetComponent<CharacterController>();
+        animator = gameObject.GetComponent<Animator>();
     }
     void Update()
     {
+        float horizontalMove = Input.GetAxis("Horizontal");
+        float verticalMove = Input.GetAxis("Vertical");
+        float horizontalRotation = Input.GetAxis("Mouse X");
+        Vector3 move = transform.forward * verticalMove + transform.right * horizontalMove;
+        controller.Move(move * Time.deltaTime * playerSpeed * moveSpeedMultiplier);
+        transform.Rotate(0, horizontalRotation * rotationSpeed, 0);
+
         groundedPlayer = controller.isGrounded;
         if (groundedPlayer && playerVelocity.y < 0)
         {
             playerVelocity.y = -0.5f;
         }
-        float horizontalMove = Input.GetAxis("Horizontal");
-        float verticalMove = Input.GetAxis("Vertical");
-        float horizontalRotation = Input.GetAxis("Mouse X");
-        Vector3 move = transform.forward * verticalMove + transform.right * horizontalMove;
-        controller.Move(move * Time.deltaTime * playerSpeed);
-        transform.Rotate(0, horizontalRotation * rotationSpeed, 0);
 
         // Changes the height position of the player..
         if (Input.GetButtonDown("Jump") && groundedPlayer)
@@ -36,5 +43,27 @@ public class PlayerMovement : MonoBehaviour
         }
         playerVelocity.y += gravityValue * Time.deltaTime;
         controller.Move(playerVelocity * Time.deltaTime);
+
+        // animations
+        if (verticalMove != 0 || horizontalMove !=0)
+        {
+            if (Input.GetKey(KeyCode.LeftShift))
+            {
+                animator.SetBool("isWalking", false);
+                animator.SetBool("isRunning", true);
+                moveSpeedMultiplier = 2f;
+            }
+            else
+            {
+                animator.SetBool("isWalking", true);
+                animator.SetBool("isRunning", false);
+                moveSpeedMultiplier = 0.5f;
+            }
+        }
+        else
+        {
+            animator.SetBool("isRunning", false);
+            animator.SetBool("isWalking", false);
+        }
     }
 }

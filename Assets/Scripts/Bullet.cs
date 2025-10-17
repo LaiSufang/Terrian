@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public float bulletSpeed = 10f;
+    public float bulletSpeed = 25f;
     public float bulletLifeTime = 3f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     //void Start()

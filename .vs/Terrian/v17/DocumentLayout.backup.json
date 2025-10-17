@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sufan\\Terrian\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|c:\\users\\sufan\\terrian\\assets\\triggeredsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\triggeredsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|c:\\users\\sufan\\terrian\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TriggeredSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,26 +90,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TriggeredSound.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
               "RelativeDocumentMoniker": "Assets\\TriggeredSound.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
               "RelativeToolTip": "Assets\\TriggeredSound.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:56:57.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T17:56:57.729Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Shoot.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Shoot.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Shoot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Shoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T20:54:31.999Z",
               "EditorCaption": ""
@@ -231,8 +229,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Runtime\\UniversalRenderPipeline.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQDAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T01:11:14.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-07T01:11:14.167Z"
             },
             {
               "$type": "Document",
@@ -244,8 +241,7 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@ec146228694a\\Shaders\\Terrain\\TerrainLit.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-09-06T23:22:22.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T23:22:22.303Z"
             },
             {
               "$type": "Document",

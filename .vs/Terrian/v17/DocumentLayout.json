@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sufan\\Terrian\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TriggeredSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|c:\\users\\sufan\\terrian\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moveobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TriggeredSound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\changecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\changesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BF67A-6A99-9F53-C0EC-693A26D8B625}|Assembly-CSharp.csproj|C:\\Users\\sufan\\Terrian\\assets\\scripts\\pickupobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,39 +90,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TriggeredSound.cs",
-              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
-              "RelativeDocumentMoniker": "Assets\\TriggeredSound.cs",
-              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
-              "RelativeToolTip": "Assets\\TriggeredSound.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T17:56:57.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Shoot.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Shoot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Shoot.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Shoot.cs",
               "RelativeToolTip": "Assets\\Scripts\\Shoot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T20:54:31.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T20:21:03.448Z"
+              "WhenOpened": "2025-09-25T20:21:03.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ChangeSize.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeSize.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeSize.cs",
@@ -156,9 +146,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveObject.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\MoveObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\MoveObject.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T16:15:55.96Z"
+              "WhenOpened": "2025-09-14T16:15:55.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -174,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ChangeColor.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\ChangeColor.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ChangeColor.cs",
@@ -198,15 +189,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "PlayerMovements.cs",
               "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PlayerMovements.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovements.cs",
               "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\Scripts\\PlayerMovements.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovements.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T02:16:28.098Z"
+              "WhenOpened": "2025-09-07T02:16:28.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriggeredSound.cs",
+              "DocumentMoniker": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
+              "RelativeDocumentMoniker": "Assets\\TriggeredSound.cs",
+              "ToolTip": "C:\\Users\\sufan\\Terrian\\Assets\\TriggeredSound.cs",
+              "RelativeToolTip": "Assets\\TriggeredSound.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:56:57.729Z"
             },
             {
               "$type": "Document",
