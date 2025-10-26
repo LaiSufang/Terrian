@@ -16,6 +16,8 @@ public class PlayerMovement : MonoBehaviour
     private Animator animator;
     private float moveSpeedMultiplier = 1f;
 
+    public GameObject inGameMenu;
+
     private void Start()
     {
         controller = gameObject.GetComponent<CharacterController>();
@@ -23,6 +25,10 @@ public class PlayerMovement : MonoBehaviour
     }
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            inGameMenu.SetActive(true);
+        }
         float horizontalMove = Input.GetAxis("Horizontal");
         float verticalMove = Input.GetAxis("Vertical");
         float horizontalRotation = Input.GetAxis("Mouse X");

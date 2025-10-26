@@ -185,6 +185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mushroom_d Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 160942, guid: e9b889a47768c4c428cc8649f15f67b4, type: 3}
+      propertyPath: m_TagString
+      value: Destructable
+      objectReference: {fileID: 0}
     - target: {fileID: 461020, guid: e9b889a47768c4c428cc8649f15f67b4, type: 3}
       propertyPath: m_LocalScale.x
       value: 18.60716
